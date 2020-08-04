@@ -1,6 +1,6 @@
 ### Hi, I'm Matt Smith 👋
 
-- 🔭 I’m currently working on _handshake_ _Chorus_, and _dots_
+- 🔭 I’m currently working on _handshake_, _Chorus_, and _dots_
 
 - 🌱 I’m currently learning _C++ Application Development on Linux_
 
