@@ -1,7 +1,7 @@
 ### Hi, I'm Matt Smith 👋
 
 - 🔭 I’m currently working on _Chorus_, _dots_ and _handshake_
-- 🌱 I’m currently learning _JavaFX with JLink_
+- 🌱 I’m currently learning _C++ Application Development on Linux_
 
 
 - 💬 Ask me about _handshake_ 🤝
