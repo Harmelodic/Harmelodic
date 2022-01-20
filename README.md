@@ -1,8 +1,8 @@
 ### Hi, I'm Matt Smith 👋
 
-- 🧑🏻‍💻 I’m currently working on _handshake_, _Chorus_, and _dots_
+- 🧑🏻‍💻 I’m currently working on _a variety of projects - see [harmelodic.com](https://harmelodic.com)_
 
-- 🌱 I’m currently learning _Rust Application Development on Linux_
+- 🌱 I’m currently learning _Rust Application Development_
 
 - 💬 Ask me about _Kubernetes_, _Software Architecture_, _Empowering Software Engineers_ and/or _Killing integrated tests_
 
@@ -12,4 +12,4 @@
 
 - ⚤ Pronouns: he/him
 
-- ⚡ Fun fact: I play a lot of musical instruments! 🎹
+- ⚡ Fun fact: I play a lot of musical instruments! 🎹🎷🎸🥁🎤🎶
