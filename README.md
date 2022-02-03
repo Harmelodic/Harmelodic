@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning _Rust Application Development_
 
-- 💬 Ask me about 
+- 💬 Ask me about:
     - _Kubernetes_
     - _Software Architecture_
     - _Infrastructure as Code_
