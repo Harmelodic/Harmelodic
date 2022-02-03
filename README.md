@@ -18,4 +18,4 @@
 
 - ⚤ Pronouns: he/him
 
-- ⚡ Fun fact: I play a lot of musical instruments! 🎹🎷🎸🥁🎤🎶
+- ⚡ Fun fact: I play D&D 🧙‍♂️ and a lot of musical instruments! 🎹🎷🎸🥁🎤🎶
