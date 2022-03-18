@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I’m currently working on _a variety of projects - see [harmelodic.com](https://harmelodic.com)_
 
-- 🌱 I’m currently learning _Rust Application Development_
+- 🌱 I’m currently learning _Rust_
 
 - 💬 Ask me about:
     - _Kubernetes_
