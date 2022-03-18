@@ -9,6 +9,7 @@
     - _Software Architecture_
     - _Infrastructure as Code_
     - _DevOps_
+    - _Domain-driven design_
     - _Empowering Software Engineers_
     - _Killing integrated tests_
 
