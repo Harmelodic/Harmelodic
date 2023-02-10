@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning _Rust_
 
 - 💬 Ask me about:
+    - _Java_
     - _Kubernetes_
     - _Software Architecture_
     - _Infrastructure as Code_
