@@ -2,8 +2,6 @@
 
 - 🧑🏻‍💻 I’m currently working on _a variety of projects - see [harmelodic.com](https://harmelodic.com)_
 
-- 🌱 I’m currently learning _Rust_
-
 - 💬 Ask me about:
     - _Java_
     - _Kubernetes_
