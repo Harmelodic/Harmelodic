@@ -1,6 +1,6 @@
 ### Hi, I'm Matt Smith 👋
 
-- 🧑🏻‍💻 I’m currently working on _a variety of projects - see [harmelodic.com](https://harmelodic.com)_
+- 🧑🏻‍💻 I’m currently working on _a variety of projects - see [https://harmelodic.com](https://harmelodic.com)_
 
 - 💬 Ask me about:
     - _Java_
